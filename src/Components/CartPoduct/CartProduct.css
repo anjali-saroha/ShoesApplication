@@ -1,0 +1,56 @@
+.shopping-cart {
+    width: 750px;
+    min-height: 300px;
+    overflow: hidden;
+    margin: 80px auto;
+    background-color: white;
+    box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.10);
+    border-radius: 6px;
+   
+    display: flex;
+    flex-direction: column;
+  }
+  .title {
+    height: 60px;
+    background-color: floralwhite;
+    border-bottom: 1px solid #E1E8EE;
+    padding: 20px 30px;
+    color: #5E6977;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .totalprice{
+    width: 100%;
+    border-top:4px;
+    height:40px;
+    display: flex;
+    background-color:lightblue;
+  }
+
+  .totalpricetext{
+    margin-left:450px;
+    padding:5px;
+    color:black;
+    font-size:18px;
+    font-weight:400;
+  }
+  .totalpricevalue{
+    margin-left:5px;
+    padding:5px;
+    font-size:18px;
+    font-weight: 400
+  }
+  .Continuecart{
+    margin-left:50px;
+    margin-top:30px;
+    padding: 20px;
+    width:20%;
+    height:50px;
+}
+
+.cartempty{
+  margin-top:100px;
+  height:400px;
+  width:100%;
+text-align: center;
+}

@@ -1,0 +1,46 @@
+.MainProduct{
+    display:flex;
+}
+.ProductImages{
+    height:600px;
+    width:40%;
+    margin-top:200px;
+    margin-left:100px;
+}
+.ProductCarousel{
+    padding: 30px;
+    height: 500px;
+    width:80%
+}
+
+.ProductDescription{
+     height:900px;
+     width:50%;
+     margin-top:100px;
+     margin-left:70px;
+}
+.checked {
+    color: orange;
+  }
+.ProductPrice{
+    margin-top: 10px;
+}
+.ProductDetail{
+    margin-top: 40px;
+    overflow: hidden;
+}
+.AddCartButton{
+    margin-left:40px;
+    padding: 30px;
+    width:50%;
+    height: 50px;
+}
+.Continue{
+    margin-left:10px;
+    padding: 20px;
+    width:30%;
+    height:50px;
+}
+.Buttons{
+    margin-top: 100px;
+}

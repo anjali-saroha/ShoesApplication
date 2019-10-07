@@ -1,0 +1,19 @@
+/* .card {
+  
+    margin-left: 300px; 
+    min-height: 100px;
+    overflow: hidden;
+    display: flex;
+    border: none;
+}
+
+.row {
+    margin: 10px;
+} */
+
+.column {
+    background-color: aquamarine;
+    width: 20%;
+    height: 60px;
+    float: left;
+}

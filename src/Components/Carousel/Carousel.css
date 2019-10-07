@@ -1,0 +1,18 @@
+.divfirst{
+    height:500px;
+    background-color: white;
+  }
+.divImage{
+    height:500px;
+    width:80%;
+    margin:auto;
+    justify-content: space-around;
+}
+.divMenu{
+  margin-top:100px;
+  height:100px;
+  width:100%;
+  background-color: aliceblue;
+  z-index: 1000;
+  position: absolute;
+}
